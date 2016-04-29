@@ -28,7 +28,7 @@ li { font-size: 16px; }
 .hero-unit .small_font, .small_font { font-size: 14px; }
 .p_font { font-size: 14px; padding-top: 5px; text-align: center; }
 .address { font-size:18px; text-align: center; }
-.thumbnail { width: 60%; }
+.thumbnail { width: 97%; }
 
 #welcome_section { padding: 40px; padding-top: 20px; background-color: transparent; }
 #pricing_section { padding: 30px; }
